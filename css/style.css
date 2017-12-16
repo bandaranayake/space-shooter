@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+}
+html, body {
+	background-image: url(../images/site-bg.jpg);
+	background-size:     cover;
+    background-repeat:   no-repeat;
+}
+canvas {
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: black;
+}
